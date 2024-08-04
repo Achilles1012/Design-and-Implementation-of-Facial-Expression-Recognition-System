@@ -3,22 +3,8 @@
 #### Under Supervision of Dr. Ningthoujam Johny Singh, Assistant Professor, NIT Meghalaya.
 This project a is made under the **Summer Internship Program at NIT Meghalaya.**
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
-    <video width="100%" controls>
-      <source src="https://github.com/Achilles1012/Design-and-Implementation-of-Facial-Expression-Recognition-System/raw/1ce4e8dddab7c6aa6ad777e93ab924f8b3ce36d9/examples/videoplayback.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  <div style="flex: 1;">
-    <video width="100%" controls>
-      <source src="https://github.com/Achilles1012/Design-and-Implementation-of-Facial-Expression-Recognition-System/raw/1ce4e8dddab7c6aa6ad777e93ab924f8b3ce36d9/examples/output_video.avi" type="video/avi">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-</div>
-
-
+![Video 1](https://github.com/Achilles1012/Design-and-Implementation-of-Facial-Expression-Recognition-System/blob/5eb9958be38b218fb265761a04b8da327ede6438/examples/videoplayback.mp4)
+![Video 2](https://github.com/Achilles1012/Design-and-Implementation-of-Facial-Expression-Recognition-System/blob/1ce4e8dddab7c6aa6ad777e93ab924f8b3ce36d9/examples/output_video.avi)
 
 The primary objective of this project is to develop a robust and accurate Facial Expression Recognition (FER) system that can classify facial expressions into several distinct emotional categories: Neutral, Happy, Sad, Surprise, Fear, Disgust, Anger and Contempt. This project aims to create a system that is not only accurate but also reliable, ensuring consistent performance across various demographic groups and conditions.
 
