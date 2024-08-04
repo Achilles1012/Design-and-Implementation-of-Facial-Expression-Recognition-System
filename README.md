@@ -60,7 +60,9 @@ ExPW
 
 ## Deployment
 System Architecture
+
 ![Logo](https://github.com/Achilles1012/Design-and-Implementation-of-Facial-Expression-Recognition-System/blob/7536fe3b8eb549d5ae147ebaca2c97fc06d4d94b/images/flowchart.png)
+
 To run the application :
 
     python EmotionsLive.py
