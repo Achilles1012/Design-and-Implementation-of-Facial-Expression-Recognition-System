@@ -3,8 +3,11 @@
 #### Under Supervision of Dr. Ningthoujam Johny Singh, Assistant Professor, NIT Meghalaya.
 This project a is made under the **Summer Internship Program at NIT Meghalaya.**
 
-![Video 1](https://github.com/Achilles1012/Design-and-Implementation-of-Facial-Expression-Recognition-System/blob/5eb9958be38b218fb265761a04b8da327ede6438/examples/videoplayback.mp4)
-![Video 2](https://github.com/Achilles1012/Design-and-Implementation-of-Facial-Expression-Recognition-System/blob/1ce4e8dddab7c6aa6ad777e93ab924f8b3ce36d9/examples/output_video.avi)
+
+
+
+https://github.com/user-attachments/assets/08e3c732-4911-4890-9ee5-0fda8e70281e
+
 
 The primary objective of this project is to develop a robust and accurate Facial Expression Recognition (FER) system that can classify facial expressions into several distinct emotional categories: Neutral, Happy, Sad, Surprise, Fear, Disgust, Anger and Contempt. This project aims to create a system that is not only accurate but also reliable, ensuring consistent performance across various demographic groups and conditions.
 
