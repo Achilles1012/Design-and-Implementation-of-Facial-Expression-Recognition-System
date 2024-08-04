@@ -3,12 +3,6 @@
 #### Under Supervision of Dr. Ningthoujam Johny Singh, Assistant Professor, NIT Meghalaya.
 This project a is made under the **Summer Internship Program at NIT Meghalaya.**
 
-
-
-
-https://github.com/user-attachments/assets/08e3c732-4911-4890-9ee5-0fda8e70281e
-
-
 The primary objective of this project is to develop a robust and accurate Facial Expression Recognition (FER) system that can classify facial expressions into several distinct emotional categories: Neutral, Happy, Sad, Surprise, Fear, Disgust, Anger and Contempt. This project aims to create a system that is not only accurate but also reliable, ensuring consistent performance across various demographic groups and conditions.
 
  The system seeks to utilize state-of-the-art machine learning techniques, particularly Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs), to enhance its capability to learn from complex data and generalize well to unseen examples.
