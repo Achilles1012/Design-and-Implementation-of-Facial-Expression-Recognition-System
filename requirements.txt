@@ -1,0 +1,11 @@
+pyTorch == 2.3.1
+torchvision == 0.18.1
+torchinfo == 1.8.0
+transformers == 4.42.4
+tensorflow == 2.10.0
+numPy == 1.24.3
+matplotlib == 3.9.1
+scikit-learn == 1.5.1
+tqdm == 4.66.4
+pillow == 10.4.0
+opencv-python
