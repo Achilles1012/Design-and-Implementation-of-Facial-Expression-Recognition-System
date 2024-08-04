@@ -6,13 +6,13 @@ This project a is made under the **Summer Internship Program at NIT Meghalaya.**
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 10px;">
     <video width="100%" controls>
-      <source src="https://github.com/Achilles1012/Design-and-Implementation-of-Facial-Expression-Recognition-System/blob/1ce4e8dddab7c6aa6ad777e93ab924f8b3ce36d9/examples/videoplayback.mp4" type="video/mp4">
+      <source src="https://github.com/Achilles1012/Design-and-Implementation-of-Facial-Expression-Recognition-System/raw/1ce4e8dddab7c6aa6ad777e93ab924f8b3ce36d9/examples/videoplayback.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
   <div style="flex: 1;">
     <video width="100%" controls>
-      <source src="https://github.com/Achilles1012/Design-and-Implementation-of-Facial-Expression-Recognition-System/blob/1ce4e8dddab7c6aa6ad777e93ab924f8b3ce36d9/examples/output_video.avi" type="video/mp4">
+      <source src="https://github.com/Achilles1012/Design-and-Implementation-of-Facial-Expression-Recognition-System/raw/1ce4e8dddab7c6aa6ad777e93ab924f8b3ce36d9/examples/output_video.avi" type="video/avi">
       Your browser does not support the video tag.
     </video>
   </div>
