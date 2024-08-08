@@ -1,7 +1,7 @@
 
 # Design and Implementation of Facial Expression Recognition System
 #### Under Supervision of Dr. Ningthoujam Johny Singh, Assistant Professor, NIT Meghalaya.
-This project a is made under the **Summer Internship Program at NIT Meghalaya.**
+This project is made under the **Summer Internship Program at NIT Meghalaya.**
 
 
 
