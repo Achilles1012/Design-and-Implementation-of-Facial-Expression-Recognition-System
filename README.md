@@ -37,6 +37,10 @@ The dataset has a total of 91,793 images which were downloaded using Google Imag
 
 Available at https://mmlab.ie.cuhk.edu.hk/projects/socialrelation/index.html
 
+3. AffectNet
+
+AffectNet is a large facial expression dataset with around 0.4 million images manually labeled for the presence of eight (neutral, happy, angry, sad, fear, surprise, disgust, contempt) facial expressions along with the intensity of valence and arousal.
+
 ## Preproccessing
 
 1. We use a Convolutional Neural Networks based model for the objective on FERPlus.
@@ -60,6 +64,10 @@ FERPlus
 ExPW
     
     run vit_base_patch16_224_in21k_(ADAM)_ExPW.ipynb
+
+AffectNet
+    
+    run affectnet_vit.ipynb
 
 ## Deployment
 System Architecture
